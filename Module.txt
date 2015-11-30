@@ -1,0 +1,10 @@
+﻿Name: imagesLoaded
+Path: js.imagesLoaded
+AntiForgery: enabled
+Author: Team Grapto (tweet: @teamgrapto)
+Website: https://github.com/grapto/js.imagesLoaded
+Version: 3.1.8
+OrchardVersion: 1.8.1
+Description: The js.imagesLoaded module contains the imagesloaded.js and related script libraries.
+FeatureDescription: Detect when images have been loaded.
+Category: Developer
